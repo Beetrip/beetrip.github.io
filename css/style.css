@@ -532,8 +532,8 @@
 		input[type="reset"].special,
 		.button.special {
 			background: #FFCC00;
-			border-color: #83d3c9;
-			color: white !important;
+			border-color: #FFFFFF;
+			color: black;
 		}
 
 			input[type="button"].special:hover,
@@ -578,7 +578,7 @@
 			background-position: bottom left, bottom right;
 			background-repeat: no-repeat, no-repeat;
 			background-size: 25em, 25em;
-			color: white;
+			color: black;
 		}
 
 			.wrapper.style2 .button:hover {
@@ -805,7 +805,7 @@
 	#banner {
 		background-attachment: scroll, scroll, scroll, fixed;
 		background-color: #645862;
-		background-image: url("images/light-bl.svg"), url("images/light-br.svg"), url("images/overlay.png"), url("../images/banner.jpg");
+		background-image: url("images/light-bl.svg"), url("images/light-br.svg"), url("images/overlay.png"), url("../images/Phone_header.PNG");
 		background-position: bottom left, bottom right, top left, top center;
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
 		background-size: 25em, 25em, auto, cover;
@@ -917,6 +917,7 @@
 		#cta header {
 			margin-bottom: 2em;
 		}
+
 
 /* Footer */
 
